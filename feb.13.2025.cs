@@ -10,3 +10,9 @@ firstName = "Bobby Brown";
 Console.WriteLine(firstName);
 firstName = "Crappy Pants";
 Console.WriteLine(firstName);
+char userOption;
+
+int gameScore;
+
+decimal particlesPerMillion;
+// Today I learned how to declare some variables like the char variable
