@@ -1,0 +1,5 @@
+int firstNumber = 12;
+int secondNumber = 7;
+Console.WriteLine(firstNumber + secondNumber);
+string firstName = "Bob";
+Console.WriteLine(firstName + " sold "  + "19 " + "widgets.");
